@@ -46,6 +46,8 @@ I enjoy turning ideas into high-quality products and continuously improving my f
 ---
 
 
-## 📫 Contact Me
-- 💼 LinkedIn: https://www.linkedin.com/in/haidy-hesham-3a25a8218/
-- 📧 Email: Haidyhesham221@gmail.com
+## 📬 Get In Touch
+
+- 📧 **Email:** [Haidyhesham221@gmail.com](mailto:Haidyhesham221@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/haidy-hesham-3a25a8218](https://www.linkedin.com/in/haidy-hesham-3a25a8218/)
+- 🐙 **GitHub:** [github.com/HaidyHisham](https://github.com/HaidyHisham)
